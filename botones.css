@@ -1,0 +1,43 @@
+body{
+    background: #F2F2F2;
+    font-family: Arial, sans-serif;
+}
+div{
+    margin: 20px 0;
+}
+.btn{
+    background: #003049;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+    margin: 0 10px;
+}
+.btn:hover{
+    opacity: .8;
+}
+.small{ 
+    font-size: 14px;
+    padding: 10px 15px;
+}
+.medium{ 
+    font-size: 16px;
+    padding: 15px 20px;
+}
+.big{ 
+    font-size: 18px;
+    padding: 20px 25px;
+}
+.extrabig{ 
+    font-size: 20px;
+    padding: 25px 30px;
+}
+
+.rojo{ background: #d62828 ; }
+.naranja{ background: #f77f00; }
+.amarillo{ background: #fcbf49; }
+
+.border-radius{
+    border-radius: 100px;
+}
